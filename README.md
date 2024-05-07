@@ -6,9 +6,11 @@
 </div>
   <h2> Hello, My name is Anderson 😁🐱‍🏍 </h2>
   <ul>
-    <li>I'm learning Data Science</li>
+    <li>I'm learning:</li>
       <ul>
         <li>Python</li>
+        <li>Rust</li>
+        <li>C++</li>
       </ul>
   </ul>
 
