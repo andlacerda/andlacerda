@@ -6,11 +6,11 @@
 </div>
   <h2> Hello, My name is Anderson 😁🐱‍🏍 </h2>
   <ul>
-    <li>I'm learning:</li>
+    <li>FullStack</li>
       <ul>
+        <li>MERN</li>
+        <li>MERN</li>
         <li>Python</li>
-        <li>Rust</li>
-        <li>C++</li>
       </ul>
   </ul>
 
