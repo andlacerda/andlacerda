@@ -1,7 +1,7 @@
 # Hi there👋
 
 ### 👨‍💻 About Me
-I'm Anderson, a Mobile Developer. I love working with Kotlin to build beautiful apps. Always learning and improving! 🚀
+I'm Anderson, a FullStack Developer. I love working with React and Spring Boot to build beautiful websites. Always learning and improving! 🚀
 When I'm not coding, you can find me learning new human languages and exploring new technologies.
 
 ## Contact
