@@ -5,7 +5,7 @@ I'm Anderson, a FullStack Developer. I love working with React and Spring Boot t
 When I'm not coding, you can find me learning new human languages and exploring new technologies.
 
 ## Contact
-- **LinkedIn**: [My Profile Link](https://linkedin.com/in/andersonlacerdadelacerda)
+- **LinkedIn**: [My Profile Link](https://linkedin.com/in/andersonlacerdadev)
 - **My Blog**: My Blog Link
 
 ![pt-br](https://img.shields.io/badge/portugu%C3%AAs-8A2BE2) ![](https://geps.dev/progress/100) ,
