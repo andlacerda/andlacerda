@@ -2,8 +2,8 @@
 
 ### 👨‍💻 About Me
 
-I build Android apps with Kotlin and tinker with Spring Boot for the backend. Love learning new things—whether it’s tech or human languages! 🌍
-When I’m not coding, you’ll find me exploring tech trends or chatting in a new language. Let’s connect! 😊
+I build fullstack apps with React on the frontend and Ruby on Rails or Django on the backend. Always excited to learn—whether it's new tech or new languages! 🌍
+When I'm not coding, I'm probably practicing a new language. Let’s connect! 😊
 
 ## Contact
 - **LinkedIn**: [My Profile Link](https://linkedin.com/in/andersonlacerdadev)
