@@ -2,8 +2,7 @@
 
 ### 👨‍💻 About Me
 
-I build fullstack apps with Angular on the Frontend and Spring Boot on the Backend. 🌍
-When I'm not coding, I'm probably practicing a new language. Let’s connect! 😊
+I build fullstack apps with Angular on the Frontend and Spring Boot on the Backend. 🌍 Let’s connect! 😊
 
 ## Contact
 - **LinkedIn**: [My Profile Link](https://linkedin.com/in/andersonlacerdadev)
