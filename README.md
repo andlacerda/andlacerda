@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-I build fullstack apps with React on the frontend and Ruby on Rails or Django on the backend. Always excited to learn—whether it's new tech or new languages! 🌍
+I build fullstack apps with Angular on the Frontend and Spring Boot on the Backend. Always excited to learn—whether it's new tech or new languages! 🌍
 When I'm not coding, I'm probably practicing a new language. Let’s connect! 😊
 
 ## Contact
