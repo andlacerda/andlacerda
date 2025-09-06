@@ -2,7 +2,7 @@
 
 ### 👨‍💻 About Me
 
-I build fullstack apps with Angular on the Frontend and Spring Boot on the Backend. 🌍 Let’s connect! 😊
+Hello, I build Android apps with Kotlin. 🌍 Let’s connect! 😊
 
 ## Contact
 - **LinkedIn**: [My Profile Link](https://linkedin.com/in/andersonlacerdadev)
