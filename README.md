@@ -7,10 +7,12 @@ APIs, business logic, and scalable systems — with Vue on the frontend. 🌍
 
 ## Contact
 - **LinkedIn**: [My Profile Link](https://linkedin.com/in/andersonlacerdadev)
+- 
+### 🌍 Languages
 
-![pt-br](https://img.shields.io/badge/portugu%C3%AAs-8A2BE2) ![](https://geps.dev/progress/100) ,
-![en](https://img.shields.io/badge/english-05A8AA) ![](https://geps.dev/progress/85) ,
-![es](https://img.shields.io/badge/espan%C3%B5l-DC602E) ![](https://geps.dev/progress/85) , 
-![fr](https://img.shields.io/badge/fran%C3%A7ais-3F612D) ![](https://geps.dev/progress/60).
-![it](https://img.shields.io/badge/fran%C3%A7ais-3F612D) ![](https://geps.dev/progress/60).
+- 🇧🇷 Portuguese — Native
+- 🇺🇸 English — Professional working proficiency
+- 🇪🇸 Spanish — Professional working proficiency
+- 🇫🇷 French — Reading & basic conversation
+- 🇮🇹 Italian — Reading & basic conversation
 
