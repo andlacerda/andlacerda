@@ -2,7 +2,8 @@
 
 ### 👨‍💻 About Me
 
-Hello, I build Android apps with Kotlin. 🌍 Let’s connect! 😊
+Ruby on Rails backend developer.
+APIs, business logic, and scalable systems — with Vue on the frontend. 🌍
 
 ## Contact
 - **LinkedIn**: [My Profile Link](https://linkedin.com/in/andersonlacerdadev)
